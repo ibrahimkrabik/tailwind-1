@@ -1,0 +1,14 @@
+import React from 'react'
+
+function Offer() {
+  return (
+    <div className='max-w-[900px] m-auto px-4 py-12 flex flex-wrap justify-between'>
+      <p className="text-lg font-bold text-gray-700">Booking Incentives</p>
+      <p className="text-lg font-bold text-gray-700">Competitevs Rates</p>
+      <p className="text-lg font-bold text-gray-700">Book with Flexibility</p>
+      <p className="text-lg font-bold text-gray-700">Trip Insurance </p>
+    </div>
+  )
+}
+
+export default Offer
