@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/tailwind-1/static/css/main.397e1160.css",
+    "main.js": "/tailwind-1/static/js/main.2267cab2.js",
+    "static/media/pexels-cats-coming-406152.jpg": "/tailwind-1/static/media/pexels-cats-coming-406152.f88cacd87e3008e8380a.jpg",
+    "static/media/pexels-terje-sollie-299347.jpg": "/tailwind-1/static/media/pexels-terje-sollie-299347.2f5a3d619010ce8b976e.jpg",
+    "static/media/pexels-tioroshi-lazaro-2874979.jpg": "/tailwind-1/static/media/pexels-tioroshi-lazaro-2874979.3afb97b9eaa7b4eff696.jpg",
+    "static/media/pexels-robin-stickel-70497.jpg": "/tailwind-1/static/media/pexels-robin-stickel-70497.d2ced6d4f0527273f093.jpg",
+    "static/media/IMG_20220202_140325_242.jpg": "/tailwind-1/static/media/IMG_20220202_140325_242.48a1585a1b155365eb03.jpg",
+    "static/media/IMG_20220202_140326_232.jpg": "/tailwind-1/static/media/IMG_20220202_140326_232.10ca4fb6d0e6b553229f.jpg",
+    "static/media/modern-business-buildings-11681736.jpg": "/tailwind-1/static/media/modern-business-buildings-11681736.ff0759c99c04756f67a1.jpg",
+    "static/media/IMG_20220202_140328_750.jpg": "/tailwind-1/static/media/IMG_20220202_140328_750.e5a6c3fbb113443992da.jpg",
+    "static/media/IMG_20220202_140336_948.jpg": "/tailwind-1/static/media/IMG_20220202_140336_948.5a63bcda8baaed3ab319.jpg",
+    "static/media/IMG_20220202_140340_011.jpg": "/tailwind-1/static/media/IMG_20220202_140340_011.7121341b105b53d5d6b4.jpg",
+    "static/media/IMG_20220202_140307_136.jpg": "/tailwind-1/static/media/IMG_20220202_140307_136.06991d9a8011ef47f02a.jpg",
+    "static/media/IMG_20220202_140335_095.jpg": "/tailwind-1/static/media/IMG_20220202_140335_095.eb32ea5269923e6fe965.jpg",
+    "index.html": "/tailwind-1/index.html",
+    "main.397e1160.css.map": "/tailwind-1/static/css/main.397e1160.css.map",
+    "main.2267cab2.js.map": "/tailwind-1/static/js/main.2267cab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.397e1160.css",
+    "static/js/main.2267cab2.js"
+  ]
+}
